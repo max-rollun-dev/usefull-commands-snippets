@@ -2,6 +2,8 @@
 
 ## DEVOPS
 
+#### untar backup from other host
+
 #### get bandwidth between hosts [link](https://www.cyberciti.biz/faq/how-to-test-the-network-speedthroughput-between-two-linux-servers/)
 
 #### change disk mount point [link](https://askubuntu.com/a/555292)
